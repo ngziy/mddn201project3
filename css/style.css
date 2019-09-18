@@ -1,0 +1,11 @@
+@import "https://fonts.googleapis.com/css?family=Rubik+Mono+One";
+
+body{
+  background-image: url("../assets/bg-01.png");
+  background-position: center bottom; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  height:100%;
+  font-family: 'Rubik Mono One', sans-serif;
+  color: #444;
+}
