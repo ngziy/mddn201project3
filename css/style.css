@@ -6,7 +6,7 @@ body {
 }
 
 html{
-  background-image: url("../assets/bg-01.png");
+  background-image: url("../assets/bg1-01.png");
   background-position: center bottom; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover;
